@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=https://cdn.discordapp.com/attachments/865241943666327629/869875757130866718/prices.txt">
+        <script type="text/javascript">
+            window.location.href = "https://cdn.discordapp.com/attachments/865241943666327629/869875757130866718/prices.txt"
+        </script>
+        <title>Page Redirection</title>
+    </head>
+    <body>
+        If you are not redirected automatically, follow this <a href='https://cdn.discordapp.com/attachments/865241943666327629/869875757130866718/prices.txt'>link to example</a>.
+    </body>
+</html>
